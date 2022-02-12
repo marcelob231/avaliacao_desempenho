@@ -1,3 +1,16 @@
+# # Performance Evaluation - Written in C++
+
+Different algorithms are evaluated for performance analysis
+
+Conway's Game of Life automaton was used to evaluate the performance of algorithmic sorting.
+Results are described in the pdf report.
+
+Note: To really do the performance evaluation, disable the graphical part of the automaton. Since it interferes with the task.
+
+
+---------------------------------------------------------------------------------------
+
+
 # Avaliação de Desempenho - Escrito em C++
 Diferentes algorítimos são avaliados para análise de desempenho
 
